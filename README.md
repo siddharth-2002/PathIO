@@ -1,19 +1,17 @@
-#PathIo
-# C++ Pathfinding implementation using SFML
+# PathIo
+## C++ Pathfinding Implementation Using SFML
 
-Thanks for checking out my pathfinding implementation
+Thank you for checking out my pathfinding implementation!
 
-Download: https://github.com/xSnapi/cpp_pathfinding_using_sfml/releases/tag/v1.0
+Download: [GitHub Release v1.0](https://github.com/xSnapi/cpp_pathfinding_using_sfml/releases/tag/v1.0)
 
-![pathfinding](https://raw.githubusercontent.com/xSnapi/cpp_pathfinding_using_sfml/main/Images/pathfinding.gif)
+![Pathfinding](https://raw.githubusercontent.com/xSnapi/cpp_pathfinding_using_sfml/main/Images/pathfinding.gif)
 
-## How to use
+## How to Use
 
-- left click placing nodes
-- right click removing nodes
-- holding A and left click places start node
-- holding D and left click places finish node
+- Left-click to place nodes.
+- Right-click to remove nodes.
+- Hold `A` and left-click to place the start node.
+- Hold `D` and left-click to place the finish node.
 
-I'm just a noob here so any advices are appreciated c:
-
-Also thanks to Sebastian Lague this repo helped me a lot to create better version of my code https://github.com/SebLague/Pathfinding
+Special thanks to **Sebastian Lague**. His [Pathfinding repository](https://github.com/SebLague/Pathfinding) helped me a lot in creating a better version of my code!
